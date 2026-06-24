@@ -1,0 +1,25 @@
+{
+    "start_datum": "",
+    "ziel_monate": 0,
+    "ziel_ects": 180,
+    "semester": [
+        {
+            "nummer": 1,
+            "ziel_ects": 30,
+            "module": [
+                {
+                    "name": "Einführung in die Programmierung mit Python",
+                    "ects": 5,
+                    "pruefungsleistung": {
+                        "note": 1.3
+                    }
+                },
+                {
+                    "name": "Anatomie und Physiologie",
+                    "ects": 5,
+                    "pruefungsleistung": null
+                }
+            ]
+        }
+    ]
+}
